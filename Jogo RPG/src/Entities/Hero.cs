@@ -23,16 +23,31 @@ namespace Jogo_RPG.src.Entities
 
         public virtual string Block(int Attack, int Block)
         {
-            if (Attack > Block)
+            if (this.HealthPoint >= 0)
             {
-                this.HealthPoint = this.HealthPoint - (Attack - Block);
+                if (Attack > Block)
+                {
+                    this.HealthPoint = this.HealthPoint - (Attack - Block);
+                }
+                else 
+                {
+                    Block = Attack;
+                }
+                if (this.HealthPoint >= 0)
+                {
+                    return this.Name + " " + "suffer an attack of " + Attack +
+                        " blocked " + Block + " and now has " + HealthPoint; 
+                }
+                else
+                {
+                    return this.Name + " " + "suffer an attack of " + Attack +
+                        " blocked " + Block + " and died"; 
+                }
             }
-            else 
+            else
             {
-                Block = Attack;
+                return this.Name + " " + "is dead";
             }
-            return this.Name + " " + "suffer an attack of " + Attack +
-                    " blocked " + Block + " and now has " + HealthPoint; 
         }
         public virtual string Attack()
         {
