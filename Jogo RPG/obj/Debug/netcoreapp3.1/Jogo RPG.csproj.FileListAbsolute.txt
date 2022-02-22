@@ -1,0 +1,13 @@
+D:\DIO\Jogo RPG\obj\Debug\netcoreapp3.1\Jogo RPG.csprojAssemblyReference.cache
+D:\DIO\Jogo RPG\obj\Debug\netcoreapp3.1\Jogo RPG.AssemblyInfoInputs.cache
+D:\DIO\Jogo RPG\obj\Debug\netcoreapp3.1\Jogo RPG.AssemblyInfo.cs
+D:\DIO\Jogo RPG\obj\Debug\netcoreapp3.1\Jogo RPG.csproj.CoreCompileInputs.cache
+D:\DIO\Jogo RPG\bin\Debug\netcoreapp3.1\Jogo RPG.exe
+D:\DIO\Jogo RPG\bin\Debug\netcoreapp3.1\Jogo RPG.deps.json
+D:\DIO\Jogo RPG\bin\Debug\netcoreapp3.1\Jogo RPG.runtimeconfig.json
+D:\DIO\Jogo RPG\bin\Debug\netcoreapp3.1\Jogo RPG.runtimeconfig.dev.json
+D:\DIO\Jogo RPG\bin\Debug\netcoreapp3.1\Jogo RPG.dll
+D:\DIO\Jogo RPG\bin\Debug\netcoreapp3.1\Jogo RPG.pdb
+D:\DIO\Jogo RPG\obj\Debug\netcoreapp3.1\Jogo RPG.dll
+D:\DIO\Jogo RPG\obj\Debug\netcoreapp3.1\Jogo RPG.pdb
+D:\DIO\Jogo RPG\obj\Debug\netcoreapp3.1\Jogo RPG.genruntimeconfig.cache
