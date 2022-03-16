@@ -1,0 +1,13 @@
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\DIO\DIO-GFT-Start-4-.NET\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
